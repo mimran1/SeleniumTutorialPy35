@@ -17,7 +17,7 @@ navToStuSch = NavigateToStuSchedule(driver)
 nav.setSuccessor(parse)
 parse.setSuccessor(navToStuSch)
 
-
+print("Time to add more code")
 
 nav.processRequest("")
 driver.close()

@@ -1,29 +1,29 @@
-Summer2015: 
-CS560: GD Computer Graphics B 3.000 9.000 
-
-Spring2014: 
 Fall2011: 
-Winter2014: 
+Fall2013: 
+Fall2012: 
 Summer2014: 
 CS545: GD Software Engineering A 3.000 12.000 
 CS555: GD Intro to Visual Info Processin A 3.000 12.000 
 
 Winter2012: 
-Spring2012: 
-Spring2013: 
-Fall2015: 
-CS520: GD Computer Architecture & Organ 3.000 
-
-Fall2012: 
-Fall2013: 
-Spring2015: 
-CS550: GD Operating Systms B 3.000 9.000 
-CS542: GD Design Patterns A 3.000 12.000 
-CS595: GD Termination Project S 3.000 0.000 
-
+Summer2013: 
 Fall2014: 
 CS532: GD Database Systems B 3.000 9.000 
 CS575: GD Design & Analysis Comp Algorit B 3.000 9.000 
 CS571: GD Programming Languages A 3.000 12.000 
 
-Summer2013: 
+Spring2013: 
+Summer2015: 
+CS560: GD Computer Graphics B 3.000 9.000 
+
+Spring2015: 
+CS595: GD Termination Project S 3.000 0.000 
+CS550: GD Operating Systms B 3.000 9.000 
+CS542: GD Design Patterns A 3.000 12.000 
+
+Winter2014: 
+Fall2015: 
+CS520: GD Computer Architecture & Organ 3.000 
+
+Spring2014: 
+Spring2012: 
